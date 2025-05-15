@@ -148,11 +148,9 @@ phone.wait(3000)
 - Analyzes products from various shopping apps
 - Compares prices, features, and reviews with improved contextual awareness
 - Facilitates purchase decisions based on user preferences
-- Monitors price trends and advises on the best time to buy
 
 ### Social Media Management
 - Evaluates content quality and potential engagement prior to publishing
-- Tracks competitor actions with contextual insights
 - Suggests content based on audience data
 - Implements cross-platform posting strategies
 
@@ -164,7 +162,6 @@ phone.wait(3000)
 
 ### Personal Assistant
 - Schedules appointments with smart calendar management
-- Manages finances by understanding spending habits
 - Organizes tasks with contextual awareness of priorities
 - Performs complex, adaptive workflows
 
@@ -174,7 +171,6 @@ phone.wait(3000)
 - **Best Practices**:
   - Store API keys in environment variables
   - Rotate API keys periodically
-  - Use scoped permissions when possible
   - Close sandbox instances when done to free resources
 
 ## AirTap Technical Foundation
@@ -210,13 +206,7 @@ AirTap is built on top of:
 
 - Combine the Android sandbox capabilities to your domain to build fully autonomous mobile agents
 - Browse example projects in the examples/ folder
-- Join our community on Discord
 - Sign up for production access at airtap.ai
-
-## 📚 API Reference
-
-For complete API documentation, see the API Reference.
-- Python - https://github.com/ivjot-bst/airtap_android
 
 ## Project Structure
 
